@@ -79,10 +79,10 @@
       
 {
   
-    name: "Don't Be Shy",
-    artist: "Dj Tiesto 7 Karol G",
-    image: "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
-    path: "https://sunnydancemusic04.netlify.app/Dj%20Tiesto%207%20Karol%20G%20-%20Don't%20be%20shy.mp3"
+    "name": "Don't Be Shy",
+    "artist": "Dj Tiesto 7 Karol G",
+    "image": "https://i.ibb.co/z6h40FW/saturday-night-fever-1977.png",
+    "path": "https://sunnydancemusic04.netlify.app/Dj%20Tiesto%207%20Karol%20G%20-%20Don't%20be%20shy.mp3"
   },
 
 
