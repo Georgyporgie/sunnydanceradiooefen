@@ -98,16 +98,16 @@
         "artist": "My Artist C",
         "duration": "2:30",
         "file": "path/to/your/mp3s/mysong3.mp3"
-      },
+      }
 
 
 
  ]
 
 
-  }
+  };
 
 
-}
+
 
 
