@@ -260,7 +260,7 @@
   <ul id="tracklist"></ul>
 
   <script>
-    fetch('tracklist.json')
+    fetch('tracklist.js')
       .then(response => response.json())
       .then(data => {
         const today = new Date().toLocaleString('en-US', { weekday: 'long' });
